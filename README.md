@@ -27,17 +27,11 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mahdihdn&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdihdn&theme=tokyonight" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdihdn&show_icons=true&theme=dark&border_radius=10&hide_border=false" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahdihdn&theme=dark&border_radius=10&hide_border=false" width="48%" />
-
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdihdn&layout=compact&theme=dark&langs_count=6&border_radius=10&hide_border=false" width="50%" />
-
-</div>
 
 ---
 
