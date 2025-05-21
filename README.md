@@ -3,7 +3,7 @@
 ---
 
 🧠 I'm a self-taught front-end developer  
-🌱 Currently learning: React, Next.js, TypeScript  
+🌱 Currently learning: React 
 🎯 Goal: Become a skilled full-stack developer, working remotely and freelancing with global clients  
 🔭 Focused on building real-world projects, leveling up my skills, and creating a strong personal brand
 
