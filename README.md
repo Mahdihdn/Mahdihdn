@@ -32,7 +32,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdihdn&theme=tokyonight" />
 </p>
 
-
 ---
 
 📫 **Connect with me:**
