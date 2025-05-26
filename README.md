@@ -12,7 +12,7 @@
 🛠️ **Languages and Tools:**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,git,linux,cpp,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,linux,cpp,python&theme=dark" />
 </p>
 
 
